@@ -1,7 +1,7 @@
 # Slasher Blade
 https://www.roblox.com/games/12336036424/Slasher-Blade-UPD#!/
 
-### [Instant Healing (Basically Godmode)](/Scripts/instaheal.lua.lua) <sub><sup>`v1.0.0` *(Updated: 16/03/2023)*</sup></sub>
+### [Instant Healing (Basically Godmode)](/Scripts/instaheal.lua) <sub><sup>`v1.0.0` *(Updated: 16/03/2023)*</sup></sub>
 Infinite Healing for Slasher Blade, currently working as of *16/03/2023*
 
 ### [Kill Aura](/Scripts/killaura.lua) <sub><sup>`v1.0.0` *(Updated: 16/03/2023)*</sup></sub>
