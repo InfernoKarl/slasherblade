@@ -4,11 +4,6 @@ local challengeFolder = game.Workspace.Challenge
 local remote = game:GetService("ReplicatedStorage").Remote.Event.Fight["[C-S]TakeDamage"]
 local killaurafarm = true
 local player = game.Players.LocalPlayer
-local regen = 9e9
-
-while task.wait() do
-    game:GetService("ReplicatedStorage").Remote.Event.Up["[C-S]TryRegen"]:FireServer(regen)
-end
 
 local function click(a)
     game:GetService("VirtualInputManager"):SendMouseButtonEvent(a.AbsolutePosition.X+a.AbsoluteSize.X/2,a.AbsolutePosition.Y+50,0,true,a,1)
