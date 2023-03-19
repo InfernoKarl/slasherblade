@@ -1,4 +1,4 @@
-# Slasher Blade
+# Slasher Blade - ALL FUTURE SCRIPTS WILL BE IN https://github.com/InfernoKarl/opensrc
 https://www.roblox.com/games/12336036424/Slasher-Blade-UPD#!/
 
 ### [Instant Healing (Basically Godmode)](/Scripts/instaheal.lua) <sub><sup>`v1.0.0` *(Updated: 16/03/2023)*</sup></sub>
